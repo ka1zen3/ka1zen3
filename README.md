@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaizen</h1>
+<h1 align="center">Hi, I'm Bianca</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka1zen3&label=Profile%20views&color=0e75b6&style=flat" alt="ka1zen3" /> </p>
